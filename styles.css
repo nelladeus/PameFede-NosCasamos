@@ -89,7 +89,7 @@ body.abierto {
   z-index: 50;
   max-width: var(--ancho-maximo);
   margin: 0 auto;
-  background: url('assets/foto-portada.png') center / cover no-repeat;
+  background: url('Assets/foto-portada.png') center / cover no-repeat;
   display: flex;
   flex-direction: column;
   align-items: center;
